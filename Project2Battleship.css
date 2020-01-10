@@ -1,0 +1,27 @@
+.tile {
+	border: 1px solid black;
+	padding: 5px 8px;
+}
+.emptyhit {
+	border: 1px solid blue;
+	padding: 5px 8px;
+	background-image: url(empty.png);
+}
+.shiphit {
+	border: 1px solid black;
+	padding: 5px 8px;
+	background-image: url(hit.png);
+}
+#total {
+	padding:20px;
+	height:225px;
+	width:450px;
+	border:2px solid lightblue;
+	border-radius:65px;
+	background-image: url(0027-sea-water-texture-seamless.jpg);
+	font-family: sans-serif;
+	font-weight: bold;
+}
+#message {
+	color:darkblue;
+}
